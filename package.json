@@ -1,0 +1,13 @@
+{
+    "name": "lightweight",
+    "private": true,
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "author": "ExquisApp Factory",
+    "workspaces": {
+      "packages": [
+        "packages/*"
+      ]
+    }
+}
